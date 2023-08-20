@@ -26,9 +26,9 @@ class App extends Component {
           </a>
         </header>
         <h1>Hello from AWS Amplify</h1>
-        <p>Amplify sample deployed</p>
+        <p>Amplify sample deployed and edit by web</p>
       </div>
-    );
+    )
   }
 }
 
